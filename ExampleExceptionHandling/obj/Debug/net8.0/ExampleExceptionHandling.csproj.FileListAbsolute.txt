@@ -1,0 +1,14 @@
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\bin\Debug\net8.0\ExampleExceptionHandling.exe
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\bin\Debug\net8.0\ExampleExceptionHandling.deps.json
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\bin\Debug\net8.0\ExampleExceptionHandling.runtimeconfig.json
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\bin\Debug\net8.0\ExampleExceptionHandling.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\bin\Debug\net8.0\ExampleExceptionHandling.pdb
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.AssemblyInfo.cs
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\refint\ExampleExceptionHandling.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.pdb
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ExampleExceptionHandling.genruntimeconfig.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleExceptionHandling\obj\Debug\net8.0\ref\ExampleExceptionHandling.dll

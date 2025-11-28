@@ -1,0 +1,16 @@
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\bin\Debug\net8.0-windows\exampleWinform.exe
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\bin\Debug\net8.0-windows\exampleWinform.deps.json
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\bin\Debug\net8.0-windows\exampleWinform.runtimeconfig.json
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\bin\Debug\net8.0-windows\exampleWinform.dll
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\bin\Debug\net8.0-windows\exampleWinform.pdb
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.Form1.resources
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.csproj.GenerateResource.cache
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.AssemblyInfoInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.AssemblyInfo.cs
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.csproj.CoreCompileInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.dll
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\refint\exampleWinform.dll
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.pdb
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\exampleWinform.genruntimeconfig.cache
+C:\Users\M.chegini\source\repos\consoleApp\exampleWinform\obj\Debug\net8.0-windows\ref\exampleWinform.dll

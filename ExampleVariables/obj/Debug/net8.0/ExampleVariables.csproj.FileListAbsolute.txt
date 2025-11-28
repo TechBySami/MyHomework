@@ -1,0 +1,14 @@
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\bin\Debug\net8.0\ExampleVariables.exe
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\bin\Debug\net8.0\ExampleVariables.deps.json
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\bin\Debug\net8.0\ExampleVariables.runtimeconfig.json
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\bin\Debug\net8.0\ExampleVariables.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\bin\Debug\net8.0\ExampleVariables.pdb
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.AssemblyInfoInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.AssemblyInfo.cs
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.csproj.CoreCompileInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\refint\ExampleVariables.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.pdb
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ExampleVariables.genruntimeconfig.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleVariables\obj\Debug\net8.0\ref\ExampleVariables.dll

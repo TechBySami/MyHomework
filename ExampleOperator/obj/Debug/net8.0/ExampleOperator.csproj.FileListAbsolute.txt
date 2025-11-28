@@ -1,0 +1,14 @@
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\bin\Debug\net8.0\ExampleOperator.exe
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\bin\Debug\net8.0\ExampleOperator.deps.json
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\bin\Debug\net8.0\ExampleOperator.runtimeconfig.json
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\bin\Debug\net8.0\ExampleOperator.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\bin\Debug\net8.0\ExampleOperator.pdb
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.AssemblyInfoInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.AssemblyInfo.cs
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.csproj.CoreCompileInputs.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\refint\ExampleOperator.dll
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.pdb
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ExampleOperator.genruntimeconfig.cache
+C:\Users\M.chegini\source\repos\consoleApp\ExampleOperator\obj\Debug\net8.0\ref\ExampleOperator.dll
