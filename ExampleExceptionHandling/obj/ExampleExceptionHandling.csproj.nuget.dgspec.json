@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj": {}
+    "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj": {
+    "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj",
+        "projectUniqueName": "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj",
         "projectName": "ExampleExceptionHandling",
-        "projectPath": "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj",
+        "projectPath": "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ExampleExceptionHandling\\ExampleExceptionHandling.csproj",
         "packagesPath": "C:\\Users\\M.chegini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ExampleExceptionHandling\\obj\\",
+        "outputPath": "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ExampleExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

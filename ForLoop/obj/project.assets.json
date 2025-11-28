@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ForLoop\\ExampleForLoop.csproj",
+      "projectUniqueName": "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ForLoop\\ExampleForLoop.csproj",
       "projectName": "ExampleForLoop",
-      "projectPath": "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ForLoop\\ExampleForLoop.csproj",
+      "projectPath": "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ForLoop\\ExampleForLoop.csproj",
       "packagesPath": "C:\\Users\\M.chegini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M.chegini\\source\\repos\\consoleApp\\ForLoop\\obj\\",
+      "outputPath": "C:\\Users\\M.chegini\\source\\repos\\MyHomework\\ForLoop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
